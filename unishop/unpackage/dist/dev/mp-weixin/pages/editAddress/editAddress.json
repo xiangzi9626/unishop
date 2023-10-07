@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "编辑收货地址",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-easyinput": "../../uni_modules/uni-easyinput/components/uni-easyinput/uni-easyinput",
+    "uni-forms-item": "../../uni_modules/uni-forms/components/uni-forms-item/uni-forms-item",
+    "uni-data-picker": "../../uni_modules/uni-data-picker/components/uni-data-picker/uni-data-picker",
+    "uni-forms": "../../uni_modules/uni-forms/components/uni-forms/uni-forms"
+  }
+}

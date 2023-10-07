@@ -1,0 +1,1 @@
+<button bindtap="{{a}}">清空购物车</button><view wx:if="{{b}}" class="cart-container"><my-cart wx:if="{{c}}" u-i="00a6e0b9-0" bind:__l="__l" u-p="{{c}}"></my-cart></view><view wx:else class="empty-cart"><image src="/static/cart_empty.png" class="empty-img"></image><text class="tip-text">没有数据</text></view>

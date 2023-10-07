@@ -1,0 +1,1 @@
+<view><button bindtap="{{a}}">打开弹窗</button><uni-popup wx:if="{{c}}" class="r" u-s="{{['d']}}" u-r="popup" u-i="464757f9-0" bind:__l="__l" u-p="{{c}}"><view style="width:100%;height:200px;background-color:aqua">中国人</view></uni-popup></view>

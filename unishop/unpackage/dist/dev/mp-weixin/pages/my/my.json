@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "个人中心",
+  "usingComponents": {
+    "my-login": "../../conponents/my-login/my-login",
+    "my-user-info": "../../conponents/my-userinfo/my-userinfo"
+  }
+}

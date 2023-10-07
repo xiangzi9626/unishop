@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" class="my-container data-v-2f1ef635"><my-user-info class="data-v-2f1ef635" u-i="2f1ef635-0" bind:__l="__l"></my-user-info></view><view wx:else class="my-container data-v-2f1ef635"><my-login class="data-v-2f1ef635" u-i="2f1ef635-1" bind:__l="__l"></my-login></view><view class="data-v-2f1ef635"><button class="data-v-2f1ef635" bindtap="{{b}}">TEST</button></view>
